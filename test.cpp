@@ -18,6 +18,11 @@ int test_barnch()
 	return 0;
 }
 
+int test_barnch2()
+{
+	return 0;
+}
+
 int main()
 {
 		calltest A;
