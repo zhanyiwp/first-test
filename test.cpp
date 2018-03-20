@@ -12,6 +12,12 @@ int test(CallBackFun pCallBack, void *watcherCtx)
 	pCallBack(watcherCtx);
 	return 0;
 }
+
+int test_barnch()
+{
+	return 0;
+}
+
 int main()
 {
 		calltest A;
